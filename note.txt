@@ -1,0 +1,30 @@
+VERSION CONTROL
+manage files and folders on our device
+
+80% -->
+
+1 2
+
+git
+daily, features her
+
+github account 
+email -  
+password - 
+username -
+
+repository - repo 
+(folder for a project)
+
+terminal 
+git bash
+
+git status - 
+init - initialize git 
+add  - git add .(every files and folders) git add .
+commit - git commit -m 'changed my styles'
+branch - git branch -M main  ---> roject
+remote add - 
+push - go online
+pull
+
