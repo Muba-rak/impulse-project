@@ -28,3 +28,7 @@ remote add -
 push - go online
 pull
 
+existing repo
+git add .
+git commit -m 'changed some content'
+git push
