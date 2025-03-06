@@ -32,3 +32,7 @@ existing repo
 git add .
 git commit -m 'changed some content'
 git push
+
+vera - login, register, reset password (ui) - 1week
+git commit -m 'finisehd login ui'
+git commit -m 'refactored login ui'
